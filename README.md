@@ -1,1 +1,1 @@
-# Data-Structures-Veri-Yap-lar-
+# Data Structures (Veri Yapilari)
